@@ -1,0 +1,14 @@
+D:\100days\console\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.exe
+D:\100days\console\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.deps.json
+D:\100days\console\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.runtimeconfig.json
+D:\100days\console\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.runtimeconfig.dev.json
+D:\100days\console\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.dll
+D:\100days\console\ScissorPaperRock\bin\Debug\netcoreapp3.1\ScissorPaperRock.pdb
+D:\100days\console\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.csproj.AssemblyReference.cache
+D:\100days\console\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.GeneratedMSBuildEditorConfig.editorconfig
+D:\100days\console\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.AssemblyInfoInputs.cache
+D:\100days\console\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.AssemblyInfo.cs
+D:\100days\console\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.csproj.CoreCompileInputs.cache
+D:\100days\console\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.dll
+D:\100days\console\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.pdb
+D:\100days\console\ScissorPaperRock\obj\Debug\netcoreapp3.1\ScissorPaperRock.genruntimeconfig.cache
